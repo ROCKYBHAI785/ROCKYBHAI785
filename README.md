@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Venkat Swaraj
-- 👀 I’m interested in Web Dev,AI ML,DS.
-- 🌱 I’m currently learning Al&ML.
-- 💞️ I’m looking to collaborate on AI & ML for learning.
-- 📫 How to reach me sathiraju829@gmail.com or vswaraj@gitam.in
+- 👀 I’m interested in AR/VR, Spatial Computing.
+- 🌱 I’m currently wokring on XR Development.
+- 💞️ I’m looking to collaborate on XR Development.
+- 📫 How to reach me venkatswarajgoli@gmail.com
 
 <!---
-ROCKYBHAI785/ROCKYBHAI785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Venkat-Swaraj/Venkat-Swaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
